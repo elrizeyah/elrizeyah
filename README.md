@@ -25,9 +25,9 @@
 
 ### What I'm Learning 📚
 
-✨ Diving deeper into JavaScript & React hooks
-✨ Exploring design thinking & user experience strategies
-✨ Experimenting with CSS animations & libraries
+-✨ Diving deeper into JavaScript & React hooks
+-✨ Exploring design thinking & user experience strategies
+-✨ Experimenting with CSS animations & libraries
 
 ---
 
