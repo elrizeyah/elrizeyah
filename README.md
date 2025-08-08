@@ -25,9 +25,9 @@
 
 ### What I'm Learning 📚
 
-- ✨ Advanced JavaScript & React hooks  
-- ✨ Design thinking & user experience strategies  
-- ✨ Animation with CSS & libraries  
+✨ Diving deeper into JavaScript & React hooks
+✨ Exploring design thinking & user experience strategies
+✨ Experimenting with CSS animations & libraries
 
 ---
 
