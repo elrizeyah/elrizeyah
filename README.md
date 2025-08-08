@@ -13,7 +13,7 @@
 - 🎨 Creative Frontend Developer & UI/UX Designer from the Philippines  
 - 💻 Passionate about crafting beautiful & user-friendly web experiences  
 - 🌱 Currently exploring React, TailwindCSS & Design Systems  
-- 🎮 Anime fan and digital art hobbyist  
+- 🎮 Anime fan and video editing hobbyist
 
 <div align="right">
   <img alt="Anime girl typing on laptop" width="400" src="https://tenor.com/view/anime-typing-laptop-gif-4469344.gif" />
