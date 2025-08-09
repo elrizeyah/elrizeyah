@@ -114,5 +114,8 @@
 </div>
 
 <div align="center">
-  <h1>Talk is cheap, show me the code. -Linus Torvalds</h1>
+
+# *Talk is cheap, show me the code.*  
+**- Linus Torvalds**
+
 </div>
