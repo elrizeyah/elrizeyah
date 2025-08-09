@@ -15,8 +15,10 @@
 - 🌱 Currently exploring React, TailwindCSS & Design Systems  
 - 🎮 Anime fan and video editing hobbyist
 
-<div align="right">
-  <img alt="Anime girl typing on laptop" width="400" src="https://tenor.com/view/anime-typing-laptop-gif-4469344.gif" />
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&font=comfortaa" alt="GitHub Stats" />
+  </a>
 </div>
 
 
