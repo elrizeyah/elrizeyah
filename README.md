@@ -20,7 +20,6 @@
   <img alt="Anime girl typing on laptop" width="400" src="https://tenor.com/view/anime-typing-laptop-gif-4469344.gif" />
 </div>
 
-<div align="center">
 ---
 
 ### What I'm Learning 📚
