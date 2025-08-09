@@ -112,5 +112,5 @@
 </div>
 
 <div align="center">
-  <h1>≽^• ˕ • ྀི≼</h1>
+  <h1>Talk is cheap, show me the code. -Linus Torvalds</h1>
 </div>
