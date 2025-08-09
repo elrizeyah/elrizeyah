@@ -107,7 +107,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=exampleuser&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
 </div>
 
