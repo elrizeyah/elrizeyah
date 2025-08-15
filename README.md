@@ -3,17 +3,22 @@
   <p><strong>Frontend Developer | UI/UX Designer | Problem Solver</strong></p>
 </div>
 
+<div align="center">
+  <img alt="Nezuko typing on laptop" width="400" src="https://media.tenor.com/Y8lzDCp1QSYAAAAC/nezuko.gif" />
+</div>
+
+
 ---
 
-## 👋 About Me
-- Frontend developer from the Philippines with a passion for crafting user-friendly, responsive, and visually engaging web applications.  
+## About Me
+- Frontend developer with a passion for crafting user-friendly, responsive, and visually engaging web applications.  
 - Experienced in translating design concepts into clean, maintainable code.  
 - Currently focusing on React, Tailwind CSS, and building scalable design systems.  
 - Strong interest in human-centered design, interaction patterns, and accessibility.  
 
 ---
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; max-width:700px; margin:auto;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></a>
   <a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/></a>
@@ -28,21 +33,25 @@
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - Advanced JavaScript & React Hooks  
 - Design Thinking & UX Research  
 - Performance optimization & accessibility best practices  
 
+<div align="right">
+  <img alt="Anime girl typing on laptop" width="400" src="https://tenor.com/view/anime-typing-laptop-gif-4469344.gif" />
+</div>
+
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elrizeyah&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="mailto:montes.ellissea.pasillos@gmail.com" title="Email"><img src="https://img.icons8.com/color/48/000000/gmail.png" /></a>
   <a href="https://www.figma.com/@ellisseamontes" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/></a>
