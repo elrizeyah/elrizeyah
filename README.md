@@ -11,10 +11,9 @@
 ---
 
 ## About Me
-- Frontend developer with a passion for crafting user-friendly, responsive, and visually engaging web applications.  
-- Experienced in translating design concepts into clean, maintainable code.  
-- Currently focusing on React, Tailwind CSS, and building scalable design systems.  
-- Strong interest in human-centered design, interaction patterns, and accessibility.  
+- Frontend developer passionate about user-friendly, responsive, and accessible web apps.
+- Turning designs into clean, maintainable code with React, Tailwind, and scalable design systems.  
+- Focused on human-centered design, intuitive interactions, and seamless user experiences.  
 
 ---
 
