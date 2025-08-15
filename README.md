@@ -52,5 +52,5 @@
 ---
 
 <div align="center">
-  <em>"Talk is cheap. Show me the code." – Linus Torvalds</em>
+  <em>"Make it simple, but significant." — Don Draper (Mad Men)</em>
 </div>
