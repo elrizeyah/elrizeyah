@@ -52,18 +52,11 @@
 
 ---
 
-<h2 align="left">Find Me Online</h2>
-
-<p align="left">
-  <a href="mailto:montes.ellissea.pasillos@gmail.com" title="Email">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" />
-  </a>
-  <a href="https://www.figma.com/@ellisseamontes" title="Figma">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" />
-  </a>
-  <a href="https://www.udemy.com/user/ellissea-pasillos-montes-2/" title="Udemy">
-    <img src="https://img.icons8.com/color/48/000000/udemy.png" />
-  </a>
+## Find Me Online
+<p align="center">
+  <a href="mailto:montes.ellissea.pasillos@gmail.com" title="Email"><img src="https://img.icons8.com/color/48/000000/gmail.png" /></a>
+  <a href="https://www.figma.com/@ellisseamontes" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/></a>
+  <a href="https://www.udemy.com/user/ellissea-pasillos-montes-2/" title="Udemy"><img src="https://img.icons8.com/color/48/000000/udemy.png"/></a>
 </p>
 
 ---
@@ -71,6 +64,5 @@
 <div align="center">
   <em>"Make it simple, but significant." — Don Draper (Mad Men)</em>
 </div>
-
 
 
