@@ -35,7 +35,6 @@
 ## Currently Learning
 - Figma (Intermediate)
 - Design Thinking & UX Research  
-- JavaScript & React Hooks  
 - Performance optimization & accessibility best practices  
 
 
