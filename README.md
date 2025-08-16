@@ -52,9 +52,9 @@
 
 ---
 
-## Find Me Online
+<h2 align="left">Find Me Online</h2>
 
-<p align="center">
+<p align="left">
   <a href="mailto:montes.ellissea.pasillos@gmail.com" title="Email">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" />
   </a>
@@ -71,5 +71,6 @@
 <div align="center">
   <em>"Make it simple, but significant." — Don Draper (Mad Men)</em>
 </div>
+
 
 
