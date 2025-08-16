@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ellissea Montes</h1>
-  <p><strong>UI/UX Designer | Frontend Developer | Problem Solver</strong></p>
+  <p><strong>UI/UX Designer | Frontend Developer | HTML & CSS Learner | Problem Solver</strong></p>
 </div>
 
 <div align="center">
