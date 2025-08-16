@@ -52,7 +52,7 @@
 
 ---
 
-## Connect with Me
+## Find Me Online
 <p align="center">
   <a href="mailto:montes.ellissea.pasillos@gmail.com" title="Email"><img src="https://img.icons8.com/color/48/000000/gmail.png" /></a>
   <a href="https://www.figma.com/@ellisseamontes" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/></a>
