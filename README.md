@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome! I'm Ellissea Montes ☘</h1>
+  <h1>Welcome! I'm Ellissea Montes 🏵</h1>
   <p><strong>UI/UX & Frontend Developer | Creative Problem Solver</strong></p>
 </div>
 
