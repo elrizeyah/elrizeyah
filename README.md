@@ -52,7 +52,9 @@
 
 ---
 
-<table>
+<h2 align="center">Find Me Online</h2>
+
+<table align="center">
   <tr>
     <td align="center" valign="middle">
       <p>
@@ -72,3 +74,4 @@
     </td>
   </tr>
 </table>
+
