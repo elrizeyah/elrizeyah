@@ -42,10 +42,6 @@
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" title="VB.NET">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/>
-  </a>
 </p>
 
 
