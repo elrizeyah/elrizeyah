@@ -33,9 +33,11 @@
 ---
 
 ## Currently Learning
-- Advanced JavaScript & React Hooks  
+- Figma (Intermediate)
 - Design Thinking & UX Research  
+- JavaScript & React Hooks  
 - Performance optimization & accessibility best practices  
+
 
 <div align="right">
   <img alt="Anime girl typing on laptop" width="400" src="https://tenor.com/view/anime-typing-laptop-gif-4469344.gif" />
