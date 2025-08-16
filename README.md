@@ -26,6 +26,16 @@
   <a href="https://www.figma.com/" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/></a>
   <a href="https://www.python.org" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></a>
   <a href="https://www.php.net" title="PHP"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/></a>
+  <div style="text-align:center">
+    <a href="https://dotnet.microsoft.com/" title=".NET">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/>
+</a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" title="VB.NET">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/>
+    <div style="font-size: 12px;">VB.NET</div>
+  </a>
+</div>
+
 </p>
 
 ---
