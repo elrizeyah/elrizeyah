@@ -53,11 +53,19 @@
 ---
 
 ## Find Me Online
+
 <p align="center">
-  <a href="mailto:montes.ellissea.pasillos@gmail.com" title="Email"><img src="https://img.icons8.com/color/48/000000/gmail.png" /></a>
-  <a href="https://www.figma.com/@ellisseamontes" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/></a>
-  <a href="https://www.udemy.com/user/ellissea-pasillos-montes-2/" title="Udemy"><img src="https://img.icons8.com/color/48/000000/udemy.png"/></a>
+  <a href="mailto:montes.ellissea.pasillos@gmail.com" title="Email">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" />
+  </a>
+  <a href="https://www.instagram.com/miiikasae/" title="Instagram">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+  </a>
+  <a href="https://x.com/eyyya07" title="X (Twitter)">
+    <img src="https://img.icons8.com/ios-filled/48/000000/twitterx--v1.png" />
+  </a>
 </p>
+
 
 ---
 
