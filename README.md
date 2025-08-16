@@ -19,24 +19,35 @@
 
 ## Skills & Technologies
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; max-width:700px; margin:auto;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></a>
-  <a href="https://laravel.com/" title="Laravel"><img src="https://logo.svgcdn.com/l/laravel.svg" width="50" alt="Laravel logo"/></a>
-  <a href="https://www.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/></a>
-  <a href="https://www.figma.com/" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/></a>
-  <a href="https://www.python.org" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></a>
-  <a href="https://www.php.net" title="PHP"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/></a>
-  <div style="text-align:center">
-    <a href="https://dotnet.microsoft.com/" title=".NET">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/>
-</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  </a>
+  <a href="https://laravel.com/" title="Laravel">
+    <img src="https://logo.svgcdn.com/l/laravel.svg" width="50" alt="Laravel logo"/>
+  </a>
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  </a>
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+  </a>
+  <a href="https://www.figma.com/" title="Figma">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
+  </a>
+  <a href="https://www.python.org" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  </a>
+  <a href="https://www.php.net" title="PHP">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
+  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" title="VB.NET">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/>
-    <div style="font-size: 12px;">VB.NET</div>
   </a>
-</div>
-
 </p>
+
 
 ---
 
