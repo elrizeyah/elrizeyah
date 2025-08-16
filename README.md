@@ -54,7 +54,10 @@
 
 ## Certifications and Projects
 
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/aleiya7/" title="Connect on LinkedIn">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  </a>
   <a href="https://www.udemy.com/user/ellissea-pasillos-montes-2/" title="View my Udemy certifications">
     <img src="https://img.icons8.com/color/48/000000/udemy.png" />
   </a>
@@ -62,8 +65,6 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/>
   </a>
 </p>
-
-
 
 ---
 
