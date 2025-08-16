@@ -12,7 +12,7 @@
 
 ## About Me
 - Frontend developer passionate about user-friendly, responsive, and accessible web apps.
-- Turning designs into clean, maintainable code with React, Tailwind, and scalable design systems.  
+- Turning designs into clean, maintainable code using scalable design systems and tools like Figma.
 - Focused on human-centered design, intuitive interactions, and seamless user experiences.  
 
 ---
