@@ -1,38 +1,38 @@
 <div align="center">
-  <h1>Hi, I'm Ellissea Montes ♣</h1>
-  <p><strong>UI/UX Designer & Frontend Developer | Creative Problem Solver</strong></p>
+  <h1>Welcome! I'm Ellissea Montes ♣</h1>
+  <p><strong>UI/UX & Frontend Developer | Creative Problem Solver</strong></p>
 </div>
 
 <div align="center">
   <img alt="Nezuko typing on laptop" width="400" src="https://media.tenor.com/Y8lzDCp1QSYAAAAC/nezuko.gif" />
 </div>
 
+
 ---
 
 ## About Me
-- 🌸 **UI/UX Designer** passionate about creating human-centered, accessible, and visually engaging digital experiences.  
-- 🎨 Skilled in turning **wireframes & prototypes** into functional, responsive, and user-friendly web apps.  
-- 🛠️ Experienced with **Figma, Design Thinking, and UX Research** to craft intuitive interactions.  
-- 💻 Combining **design + frontend development** for seamless user journeys.  
+- Frontend developer passionate about user-friendly, responsive, and accessible web apps.
+- Turning designs into clean, maintainable code using scalable design systems and tools like Figma.
+- Focused on human-centered design, intuitive interactions, and seamless user experiences.  
 
 ---
 
-## Skills & Tools
+## Skills & Technologies
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; max-width:700px; margin:auto;">
-  <a href="https://www.figma.com/" title="Figma">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
   </a>
   <a href="https://laravel.com/" title="Laravel">
-    <img src="https://logo.svgcdn.com/l/laravel.svg" width="50"/>
+    <img src="https://logo.svgcdn.com/l/laravel.svg" width="50" alt="Laravel logo"/>
   </a>
   <a href="https://www.mysql.com/" title="MySQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
   </a>
   <a href="https://git-scm.com/" title="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+  </a>
+  <a href="https://www.figma.com/" title="Figma">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
   </a>
   <a href="https://www.python.org" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
@@ -42,15 +42,16 @@
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
-  </a>
 </p>
+
 
 ---
 
 ## Currently Learning
-- Advanced **Figma workflows** & design systems  
-- **UX Research** & usability testing methods  
-- Accessibility best practices & performance optimization  
+- Figma (Intermediate)
+- Design Thinking & UX Research  
+- Performance optimization & accessibility best practices  
+
 
 <div align="right">
   <img alt="Anime girl typing on laptop" width="400" src="https://tenor.com/view/anime-typing-laptop-gif-4469344.gif" />
@@ -65,29 +66,7 @@
 
 ---
 
-## Featured UI/UX Projects
-
-<p align="center">
-  <a href="https://www.figma.com/@ellisseamontes" target="_blank">
-    <img src="https://via.placeholder.com/280x180.png?text=E-commerce+UI+Preview" alt="E-commerce UI" width="280"/>
-  </a>
-  <a href="https://www.figma.com/@ellisseamontes" target="_blank">
-    <img src="https://via.placeholder.com/280x180.png?text=Mobile+Banking+App+Preview" alt="Banking App UI" width="280"/>
-  </a>
-  <a href="https://www.figma.com/@ellisseamontes" target="_blank">
-    <img src="https://via.placeholder.com/280x180.png?text=Portfolio+Website+Preview" alt="Portfolio Website UI" width="280"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.figma.com/@ellisseamontes" target="_blank">
-    🎨 Explore More on My Figma Portfolio →
-  </a>
-</p>
-
----
-
-## Certifications & Profiles
+## Certifications and Projects
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aleiya7/" title="Connect on LinkedIn">
@@ -104,5 +83,5 @@
 ---
 
 <div align="center">
-  <em>"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs</em>
+  <em>"Make it simple, but significant." — Don Draper (Mad Men)</em>
 </div>
