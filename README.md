@@ -59,13 +59,6 @@
 
 ---
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elrizeyah&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
----
-
 ## Certifications and Projects
 
 <p align="center">
