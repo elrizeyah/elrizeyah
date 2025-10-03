@@ -48,7 +48,7 @@
 ---
 
 ## Currently Learning
-- Figma (Intermediate)
+- Figma Practitioner (Beginner/Intermediate)
 - Design Thinking & UX Research  
 - Performance optimization & accessibility best practices  
 
