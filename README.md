@@ -1,7 +1,3 @@
-Here’s a **cleaner, UI/UX Designer–focused version** of your Markdown — keeping your vibe but emphasizing your *design* side more than development:
-
----
-
 <div align="center">
   <h1>Welcome! I'm Ellissea Montes ♣</h1>
   <p><strong>UI/UX Designer | Creative Problem Solver | Frontend Enthusiast</strong></p>
