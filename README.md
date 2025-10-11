@@ -11,34 +11,39 @@
 
 ## About Me
 
-* Passionate **UI/UX designer** focused on creating human-centered, accessible, and visually compelling experiences.
-* Skilled in transforming complex ideas into **clean, functional, and intuitive interfaces**.
-* Experienced in **wireframing, prototyping, and design systems** using Figma and other modern tools.
-* Inspired by design that balances **creativity and usability** for a meaningful digital impact.
+* Passionate **UI/UX designer** focused on creating user-centered, accessible, and visually engaging experiences.
+* Skilled in **design systems**, **wireframing**, and **prototyping** with a strong eye for visual balance and usability.
+* Dedicated to turning ideas into **intuitive digital interfaces** that people love to use.
+* Blending creativity, empathy, and functionality to craft meaningful user experiences.
 
 ---
 
-## Skills & Tools
+## Skills & Technologies
 
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; max-width:700px; margin:auto;">
-  <a href="https://www.figma.com/" title="Figma">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" title="Adobe XD">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" width="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-  </a>
-  <a href="https://www.javascript.com/" title="JavaScript (basic)">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  </a>
+  <a href="https://laravel.com/" title="Laravel">
+    <img src="https://logo.svgcdn.com/l/laravel.svg" width="50" alt="Laravel logo"/>
+  </a>
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
   </a>
   <a href="https://git-scm.com/" title="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
   </a>
+  <a href="https://www.figma.com/" title="Figma">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
+  </a>
+  <a href="https://www.python.org" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  </a>
+  <a href="https://www.php.net" title="PHP">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
 </p>
 
 ---
@@ -46,9 +51,9 @@
 ## Currently Learning
 
 * **UX Research & Design Thinking**
-* **Prototyping & User Testing**
-* **Accessibility and Inclusive Design**
-* **Frontend handoff best practices**
+* **Figma Practitioner (Beginner/Intermediate)**
+* **Usability Testing & Accessibility**
+* **Design-to-Development Handoff (Frontend collaboration)**
 
 <div align="right">
   <img alt="Anime girl typing on laptop" width="400" src="https://tenor.com/view/anime-typing-laptop-gif-4469344.gif" />
@@ -65,7 +70,7 @@
   <a href="https://www.udemy.com/user/ellissea-pasillos-montes-2/" title="View my Udemy certifications">
     <img src="https://img.icons8.com/color/48/000000/udemy.png" />
   </a>
-  <a href="https://www.figma.com/@ellisseamontes" title="View my Figma projects">
+  <a href="https://www.figma.com/@ellisseamontes" title="View my Figma design projects">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/>
   </a>
 </p>
@@ -73,5 +78,5 @@
 ---
 
 <div align="center">
-  <em>"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs</em>
+  <em>"Design is intelligence made visible." — Alina Wheeler</em>
 </div>
