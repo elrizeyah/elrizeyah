@@ -1,7 +1,4 @@
-<div align="center">
-  <h1>Welcome! I'm Ellissea Montes ♣</h1>
-  <p><strong>UI/UX Designer | Creative Problem Solver | Frontend Enthusiast</strong></p>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hello!+I%27m+Ellissea+Montes..;UI%2FUX+Designer;Creative+Problem+Solver;Figma+Practitioner;Nice+To+Meet+You....&center=true" alt="Typing SVG"/>
 
 <div align="center">
   <img alt="Nezuko typing on laptop" width="400" src="https://media.tenor.com/Y8lzDCp1QSYAAAAC/nezuko.gif" />
@@ -74,8 +71,6 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/>
   </a>
 </p>
-
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Nadeem+Sarwar..;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
 ---
 
