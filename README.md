@@ -48,14 +48,13 @@
 ---
 
 <br>
-<details align="center">
+<details>
     <summary>
       <samp>
         <b>More Info</b>
       </samp>
     </summary>
     <br>
-<div align="center">
 
 ## Currently Learning
 
