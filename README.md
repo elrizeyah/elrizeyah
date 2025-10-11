@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hello!+I%27m+Ellissea+Montes..;UI%2FUX+Designer;Creative+Problem+Solver;Figma+Practitioner;Nice+To+Meet+You....&center=true" alt="Typing SVG"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hello!+I'm+Ellissea+Montes..;UI%2FUX+Designer+|+Creative+Problem+Solver;Figma+Practitioner;Nice+To+Meet+You....&center=true" alt="Typing SVG"/>
+</div>
 
 <div align="center">
   <img alt="Nezuko typing on laptop" width="400" src="https://media.tenor.com/Y8lzDCp1QSYAAAAC/nezuko.gif" />
