@@ -1,63 +1,82 @@
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="120" viewBox="0 0 760 120" role="img" aria-label="Glitch text: Ellissea Montes">
-    <style>
-      .g-text { font: 700 48px/1 "Segoe UI", Roboto, system-ui, -apple-system, "Helvetica Neue", Arial; letter-spacing: 1px; }
-    </style>
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hello!+I'm+Ellissea+Montes...;Aspirant+UI%2FUX+Designer;Creative+Problem+Solver;Figma+Practitioner&center=true" alt="Typing SVG"/>
+</div>
 
-    <!-- base text -->
-    <text class="g-text" x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#111">
-      Ellissea Montes
-    </text>
 
-    <!-- red layer (glitch) -->
-    <text class="g-text" x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#E22FE4" opacity="0.85">
-      Ellissea Montes
-      <!-- horizontal jitter -->
-      <animateTransform attributeName="transform"
-                        type="translate"
-                        values="0 0; -6 0; 6 0; -3 0; 0 0"
-                        keyTimes="0;0.2;0.5;0.8;1"
-                        dur="1.6s"
-                        repeatCount="indefinite" />
-      <!-- quick flashes -->
-      <animate attributeName="opacity"
-               values="0;1;0.6;1;0"
-               keyTimes="0;0.15;0.4;0.7;1"
-               dur="1.6s"
-               repeatCount="indefinite"/>
-    </text>
+<div align="center">
+  <img alt="Nezuko typing on laptop" width="400" src="https://media.tenor.com/Y8lzDCp1QSYAAAAC/nezuko.gif" />
+</div>
 
-    <!-- cyan layer (glitch) -->
-    <text class="g-text" x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#00E5FF" opacity="0.75">
-      Ellissea Montes
-      <animateTransform attributeName="transform"
-                        type="translate"
-                        values="0 0; 6 0; -6 0; 3 0; 0 0"
-                        keyTimes="0;0.18;0.45;0.75;1"
-                        dur="1.4s"
-                        repeatCount="indefinite" />
-      <animate attributeName="opacity"
-               values="0;0.9;0.5;0.9;0"
-               keyTimes="0;0.12;0.5;0.78;1"
-               dur="1.4s"
-               repeatCount="indefinite"/>
-    </text>
+---
 
-    <!-- small horizontal slices that slide (extra glitch accents) -->
-    <g fill="#111" font="700 28px/1 'Segoe UI', Roboto, system-ui">
-      <text x="50%" y="40%" text-anchor="middle" fill="#111" opacity="0.9">Ellissea</text>
-      <text x="50%" y="40%" text-anchor="middle" fill="#E22FE4" opacity="0.7">
-        Ellissea
-        <animateTransform attributeName="transform" type="translate" values="0 0; -18 0; 0 0" dur="2.5s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite"/>
-      </text>
+## About Me
 
-      <text x="50%" y="70%" text-anchor="middle" fill="#111" opacity="0.9">Montes</text>
-      <text x="50%" y="70%" text-anchor="middle" fill="#00E5FF" opacity="0.6">
-        Montes
-        <animateTransform attributeName="transform" type="translate" values="0 0; 18 0; 0 0" dur="2.2s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;1;0" dur="2.2s" repeatCount="indefinite"/>
-      </text>
-    </g>
-  </svg>
+* Passionate **UI/UX designer** focused on creating user-centered, accessible, and visually engaging experiences.
+* Skilled in **design systems**, **wireframing**, and **prototyping** with a strong eye for visual balance and usability.
+* Dedicated to turning ideas into **intuitive digital interfaces** that people love to use.
+* Blending creativity, empathy, and functionality to craft meaningful user experiences.
+
+---
+
+## Skills & Technologies
+
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; max-width:700px; margin:auto;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  </a>
+  <a href="https://laravel.com/" title="Laravel">
+    <img src="https://logo.svgcdn.com/l/laravel.svg" width="50" alt="Laravel logo"/>
+  </a>
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  </a>
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+  </a>
+  <a href="https://www.figma.com/" title="Figma">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
+  </a>
+  <a href="https://www.python.org" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  </a>
+  <a href="https://www.php.net" title="PHP">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
+</p>
+
+---
+
+## Currently Learning
+
+* **UX Research & Design Thinking**
+* **Figma Practitioner (Beginner/Intermediate)**
+* **Usability Testing & Accessibility**
+* **Design-to-Development Handoff (Frontend collaboration)**
+
+<div align="right">
+  <img alt="Anime girl typing on laptop" width="400" src="https://tenor.com/view/anime-typing-laptop-gif-4469344.gif" />
+</div>
+
+---
+
+## Certifications & Projects
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aleiya7/" title="Connect on LinkedIn">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  </a>
+  <a href="https://www.udemy.com/user/ellissea-pasillos-montes-2/" title="View my Udemy certifications">
+    <img src="https://img.icons8.com/color/48/000000/udemy.png" />
+  </a>
+  <a href="https://www.figma.com/@ellisseamontes" title="View my Figma design projects">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <em>"Design is intelligence made visible." — Alina Wheeler</em>
 </div>
