@@ -47,14 +47,11 @@
 
 ---
 
-<br>
 <details>
-    <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-    </summary>
-    <br>
+  <summary style="text-align:center;">
+    <samp><b>More Info</b></samp>
+  </summary>
+  <br>
 
 ## Currently Learning
 
